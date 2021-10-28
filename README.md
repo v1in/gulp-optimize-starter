@@ -1,5 +1,7 @@
-# start-project-gulp-bootstrap
-Starting files with gulp 4 and bootstrap 5.
+# gulp-optimize-starter
+
+Optimized Gulp Starter for future development.
+The project is based on gulp 4 and includes Bootstrap 5
 
 #### Tech Stack:
 
@@ -24,7 +26,7 @@ Open http://localhost:1010 to view it in the browser.
 
 ## Production mode
 
-`npm run prod`
+`npm run build`
 
 Builds the app in production mode with a hash to the filename. \
 All files in the folder `build/`
