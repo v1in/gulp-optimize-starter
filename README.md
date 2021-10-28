@@ -1,5 +1,4 @@
-![Demo](./github/assets/demo.svg)
-
+![Demo](https://raw.githubusercontent.com/v1in/gulp-optimize-starter/master/.github/assets/demo.svg)
 # gulp-optimize-starter
 
 Optimized Gulp Starter for future development.
