@@ -41,6 +41,12 @@ Your app is ready to be deployed 🤟
 
 `npm run clear`
 
+## Code Style
+
+Launches the lint and fix all issues:
+
+`npm run stylelint` and `npm run stylelint:fix`
+
 ## Some notes
 
 The project uses a plugin [gulp-rigger](https://www.npmjs.com/package/gulp-rigger). \
