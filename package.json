@@ -15,7 +15,7 @@
   "devDependencies": {
     "autoprefixer": "^10.3.7",
     "browser-sync": "^2.27.7",
-    "chalk": "5.1.2",
+    "chalk": "5.2.0",
     "cssnano": "^5.0.8",
     "gulp": "^4.0.2",
     "gulp-cache": "^1.1.3",
